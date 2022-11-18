@@ -1,7 +1,8 @@
 ### Hi, I 'm Eros Gabriel !
 
 ## Studying systems analysis and development
-## Studying go (Golang)
+## Go (Golang)
+## Software testing
 
 <div align="center">
   <a href="https://github.com/ErosGTB">
